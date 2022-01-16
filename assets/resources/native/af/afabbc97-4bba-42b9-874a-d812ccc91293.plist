@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>button-connect-metamask-off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,81},{336,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{336,64}}</string>
+				<key>sourceSize</key>
+				<string>{336,64}</string>
+			</dict>
+
+			<key>button-market-off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{424,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,8},{424,80}}</string>
+				<key>sourceSize</key>
+				<string>{424,90}</string>
+			</dict>
+
+			<key>button-settings-off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,205},{48,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{48,48}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>icon-close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,205},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{32,32}}</string>
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+
+			<key>icon-wallet-3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,205},{30,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{9,11},{30,26}}</string>
+				<key>sourceSize</key>
+				<string>{48,48}</string>
+			</dict>
+
+			<key>rank-top-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{166,146},{82,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,12},{82,61}}</string>
+				<key>sourceSize</key>
+				<string>{84,84}</string>
+			</dict>
+
+			<key>rank-top-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,146},{82,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,16},{82,52}}</string>
+				<key>sourceSize</key>
+				<string>{84,84}</string>
+			</dict>
+
+			<key>rank-top-3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,146},{82,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,13},{82,58}}</string>
+				<key>sourceSize</key>
+				<string>{84,84}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,256}</string>
+			<key>textureFileName</key>
+			<string>icons.png</string>
+			</dict>
+		</dict>
+</plist>
